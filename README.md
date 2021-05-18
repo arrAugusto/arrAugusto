@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**arrAugusto/arrAugusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - Sobre mi, 
   
 -⚡  Back developer he desarrollado aplicaciones con golang, php, c#, con nodejs he trabajado sus bases y un api basica.
@@ -15,4 +10,4 @@ Here are some ideas to get you started:
 -👯   Colaboro como desarrollador en banco industrial el cual me ha ayudado a desarrollar mis habilidades.
 
 - 📫 Correo electornico: agr120@hotmail.com
--->
+
